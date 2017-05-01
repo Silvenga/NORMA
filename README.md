@@ -1,3 +1,10 @@
+
+# NORMA Mirror
+
+The goal for this project is to provide VS 2017 compatibility with NORMA.
+
+Original Readme.txt
+```
 Neumont Object-Role Modeling Architect
 Copyright © Neumont University. All rights reserved.
 Copyright © ORM Solutions, LLC. All rights reserved.
@@ -119,4 +126,4 @@ The general directions are the same as for the VS2008 approach (open a Visual St
 The installation process on VS2015 is not as easy as on VS2010, which simply required extension files to be copied into place. You will likely to need run devenv /setup for VS2015 regardless of what you do with the Visual Studio installations. See additional readme information in the VSIXInstall/VS2015 directory.
 
 If NORMA is not functioning after the first dev build (the first clue will be in the file new dialog, which will simply say 'ORMModel' instead of 'Object-Role Modeling File') then you will need to reset the VSIX installation following the directions from the readme in the VSIXInstall/VS2015 directory. This should be required only after the first build, or in situations indicated in the readme.
-
+```
